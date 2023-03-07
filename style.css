@@ -1,0 +1,12 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-image:url(./image/error.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    image-resolution: 1000dpi;
+}
